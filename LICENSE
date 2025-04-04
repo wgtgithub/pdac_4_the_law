@@ -1,21 +1,27 @@
-MIT License
+Custom License Based on the MIT License  
+(MITライセンスを基にしたカスタムライセンス)
 
-Copyright (c) 2025 Jun Takeshita
+Copyright (c) 2025 Takeshita
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this repository and its associated documentation files (the "Repository"), to use, copy, and reference the Repository for non-modifying purposes, subject to the following conditions:  
+(本リポジトリおよび関連ドキュメント（以下「本リポジトリ」）を入手したすべての者に対し、以下の条件に従う限り、無料で使用、複製、および参照する権利を許可します。ただし、改変は不可とします。)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Modification of the Repository content is **strictly prohibited**, including fork-based edits or derivative works.  
+(本リポジトリの内容の改変は、フォークベースの編集や派生物の作成も含め、**一切禁止**します。)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Pull Requests (PRs) or suggestions to change the Repository are not accepted.  
+(Pull Request（PR）や変更提案の受け付けは行いません。)
+
+3. Citation of the Repository (in books, articles, media, etc.) is freely allowed.  
+(本リポジトリの引用・参照（書籍・記事・メディアなどで）は自由に行えます。)
+
+4. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Repository.  
+(上記の著作権表示および本許諾表示は、本リポジトリのすべての複製または重要な部分に含める必要があります。)
+
+5. The Repository is provided "as is", without warranty of any kind.  
+(本リポジトリは「現状のまま」提供され、いかなる保証もありません。)
+
+---
+
+This custom license exists to preserve the legal clarity and structural integrity of the content.  
+(このカスタムライセンスは、本内容の法的明確性と構造的一貫性を維持するために設けられています。)

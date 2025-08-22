@@ -166,40 +166,40 @@
 
 ### 🔹 個別法案草案
 
-- [真・消費税改革法案（draft_tax_law.md）](../phase2_legislation_draft/draft_tax_law.md)
-- [立法三法一括改正案（constitutional_financial_family_reform.md）](../phase2_legislation_draft/constitutional_financial_family_reform.md)
-- [所得税法改正案（income_tax_reform.md）](../phase2_legislation_draft/income_tax_reform.md)
-- [法人税法改正案（corporate_tax_reform.md）](../phase2_legislation_draft/corporate_tax_reform.md)
+- [真・消費税改革法案](#draft_tax_law)
+- [立法三法一括改正案](#constitutional_financial_family_reform)
+- [所得税法改正案](#income_tax_reform)
+- [法人税法改正案](#corporate_tax_reform)
 
 
 ### 🔹 提案書・要約等（Phase 1）
 
-- [政策提案書（本書）](../phase1_policy_design/policy_proposal.md)
-- [提案要約資料](../phase1_policy_design/policy_summary.md)
+- [政策提案書（本書）](#policy_proposal)
+- [提案要約資料](#policy_summary)
 
 ### 🔹 法案関連文書（Phase 2）
 
-- [真・消費税改革法案（条文草案）](../phase2_legislation_draft/draft_tax_law.md)
-- [立法趣旨説明書](../phase2_legislation_draft/law_preamble.md)
-- [法案新旧対照表](../phase2_legislation_draft/revision_comparison.md)
-- [附帯決議案（任意）](../phase2_legislation_draft/supplemental_resolutions.md)
+- [真・消費税改革法案（条文草案）](#draft_tax_law)
+- [立法趣旨説明書](#law_preamble)
+- [法案新旧対照表](#revision_comparison)
+- [附帯決議案（任意）](#supplemental_resolutions)
 
 ### 🔹 社会的合意形成資料（Phase 3）
 
-- [パブリックコメント案](../phase3_public_engagement/public_comment.md)
-- [公聴会配布資料](../phase3_public_engagement/hearing_materials.md)
-- [FAQ（国民向け解説）](../phase3_public_engagement/faq.md)
+- [パブリックコメント案](#public_comment)
+- [公聴会配布資料](#hearing_materials)
+- [FAQ（国民向け解説）](#faq)
 
 ### 🔹 国際的対応資料（Phase 4）
 
-- [国際比較資料（OECD・EUとの比較）](../phase4_international_context/international_comparison.md)
-- [政策要旨 英語版](../phase4_international_context/policy_summary_en.md)
+- [国際比較資料（OECD・EUとの比較）](#international_comparison)
+- [政策要旨 英語版](../../en/p-0001/#policy_summary_en)
 
 ### 🔹 共通資料（Shared）
 
-- [制度比較表（現行制度との比較）](../shared/comparison_table.md)
-- [法体系整合マップ（関連六法との対応表）](../shared/legal_consistency_map.md)
-- [制度課題対応状況マトリクス](../shared/legal_issue_matrix.md)
+- [制度比較表（現行制度との比較）](#comparison_table)
+- [法体系整合マップ（関連六法との対応表）](#legal_consistency_map)
+- [制度課題対応状況マトリクス](#legal_issue_matrix)
   
 ---
 

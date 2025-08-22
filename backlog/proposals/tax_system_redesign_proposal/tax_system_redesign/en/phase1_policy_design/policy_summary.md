@@ -46,4 +46,4 @@ To fundamentally reform the existing consumption tax system—addressing its reg
 
 ---
 
-> For full details, see the complete policy proposal (`policy_proposal.md`).
+> For details, see [Policy Proposal](#policy_proposal).

@@ -1,8 +1,8 @@
-# Legislative Petition 2.0 — Policy Summary
+## Legislative Petition 2.0 — Policy Summary
 
 In modern democratic governance, the institution of petitioning is long established, yet its practical effectiveness is severely limited under current practice. The “Legislative Petition 2.0” is a proposal to elevate the petition system into a genuine mechanism for legislative initiative by citizens. Below is the full outline of its rationale, design, and necessity.
 
-## 1. Problems in the Conventional Petition System
+### 1. Problems in the Conventional Petition System
 
 Under the existing petition regime, a number of structural defects impede genuine civic speech from translating into policy impact:
 
@@ -15,7 +15,7 @@ Under the existing petition regime, a number of structural defects impede genuin
 
 These features render the conventional petition system ill-suited for handling systematic proposals or legislative reform.
 
-## 2. Achievements and Limitations of Petition 1.0
+### 2. Achievements and Limitations of Petition 1.0
 
 Despite institutional constraints, there has been precedent for advanced petitions. For instance, the “True Consumption Tax Reform Bill” was drafted by citizens with full policy design and legal structure, without relying on any sponsoring member, and remarkably achieved publication in the House of Representatives Bulletin:
 
@@ -33,11 +33,11 @@ However, the petition encountered significant constraints:
 
 These outcomes both showcase the potential of citizen legislative proposals and expose the insufficiencies of a system that treats them as mere petitions.
 
-## 3. Nature and Design of Petition 2.0
+### 3. Nature and Design of Petition 2.0
 
 Petition 2.0 is conceived to overcome these barriers by institutionalizing a petition form that carries genuine legislative force under defined conditions. Its key features are as follows.
 
-### Core Requirements
+#### Core Requirements
 
 1. A concise policy summary defining purpose, background, and objectives.  
 2. A detailed policy proposal document explaining institutional reforms, design, implementation, and anticipated effects.  
@@ -50,14 +50,14 @@ Petition 2.0 is conceived to overcome these barriers by institutionalizing a pet
 
 Only petitions satisfying all such criteria are to be treated as “Petition 2.0” under the law.
 
-### Institutional Obligations
+#### Institutional Obligations
 
 - Upon receipt of a Petition 2.0, the Diet must commence deliberation and drafting of the petition into an official bill.  
 - If the Diet declines to draft it, it must either propose an alternate bill or publicly explain the refusal.  
 - The drafting and deliberation process must be transparent and documented.  
 - Petitions submitted prior to enactment may be retrospectively recognized if they satisfy all criteria.
 
-## 4. Purpose of This Bill
+### 4. Purpose of This Bill
 
 This bill aims to codify Petition 2.0’s institutional framework into Diet law (e.g. amendments to the Diet Act and internal rules), thereby guaranteeing that citizens’ comprehensive proposals receive substantive treatment rather than remaining symbolic. It also seeks to prevent citizen proposals from being ignored merely by procedural default.
 

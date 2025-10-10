@@ -43,7 +43,7 @@ Petition 2.0 is conceived to overcome these barriers by institutionalizing a pet
 2. A detailed policy proposal document explaining institutional reforms, design, implementation, and anticipated effects.  
 3. A draft law text, formatted as legal statute, defining new or amended provisions.  
 4. Explanatory materials—annotations, Q&A, impact assessments—that clarify each article’s intent.  
-5. A registered list of at least 20,000 petition signatures (with name and contact) each accompanied by a fixed support contribution of ¥500 (totaling a minimum of ¥10,000,000).  
+5. A certified record of total support contributions amounting to at least ¥10,000,000, based on fixed individual contributions of ¥500 per supporter. The number of supporters shall be calculated by dividing the total amount by ¥500. Disclosure of personal information (name and contact) is not required.  
 6. In addition, at least 80,000 supporters via SNS or other publicly observable platforms (e.g. “likes”, shares), whose support metrics are archived and verifiable.  
 7. All documents and data must be publicly disclosed online in an accessible manner.  
 8. The petition letter must explicitly state that all above requirements are fulfilled.
